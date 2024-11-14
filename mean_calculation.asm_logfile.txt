@@ -1,0 +1,49 @@
+Error Detected in asm file. Cannot go ahead!
+
+Data in the Error LL
+6, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+8, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+9, More than 1 operand Error
+45, More than 1 operand Error
+45, More than 1 operand Error
+45, More than 1 operand Error
+45, More than 1 operand Error
+5, Wrong Label Name Error
+6, Wrong Label Name Error
+7, Wrong Label Name Error
+1, Pnemonic Doesn't exists Error
+2, Pnemonic Doesn't exists Error
+3, Pnemonic Doesn't exists Error
+4, Pnemonic Doesn't exists Error
+5, Pnemonic Doesn't exists Error
+6, Pnemonic Doesn't exists Error
+8, Pnemonic Doesn't exists Error
+9, Pnemonic Doesn't exists Error
+10, Pnemonic Doesn't exists Error
+40, Pnemonic Doesn't exists Error

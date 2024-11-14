@@ -1,0 +1,72 @@
+/*
+ * Name: PRIYANSHI AGRAWAL
+ * Roll No.: 2301CS90
+ * Course Code: CS2102  
+ * Work: MiniProject
+ * Course Instructor: Dr. Jimson Mathew
+ * Declaration of Authorship:
+ * I, Priyanshi Agrawal, declare that this code is my own work. I have not copied code from any other source, and I have not shared my code with anyone else.
+ */
+
+Project Title: Simple Assembler
+
+Project Description:
+This project implements a simple assembler for a hypothetical assembly language. The assembler takes an assembly language source file as input and generates machine code as output. Key features include:
+
+Lexical Analysis: Breaks down the input code into tokens.
+Syntax Analysis: Parses the token stream to ensure it adheres to the grammar rules of the assembly language.
+Semantic Analysis: Checks for semantic errors, such as undefined labels or invalid operand types.
+Code Generation: Translates the parsed and analyzed code into machine code, which can be executed by a suitable simulator or hardware.
+
+Implementation Details:
+
+Language: C
+Data Structures: Uses appropriate data structures (e.g., symbol table, struct ,pointers) to represent the assembly language program.
+Algorithms: Employs algorithms for lexical analysis, parsing, and code generation.
+Error Handling: Incorporates robust error handling mechanisms to detect and report errors during the assembly process.
+
+Contributions:
+
+Core Functionality: Implemented the core functionality of the assembler, including lexical analysis, syntax analysis, semantic analysis, and code generation.
+Error Handling: Developed error handling mechanisms to identify and report various types of errors.
+Testing: Wrote unit tests to ensure the correctness of individual components.
+Documentation: Created clear and concise documentation, including comments within the code .
+
+Future Work:
+
+Enhance Error Handling: Improve error reporting and recovery mechanisms.
+Optimize Code Generation: Explore optimizations to generate more efficient machine code.
+Add Support for Advanced Features: Consider adding support for macros, conditional assembly, and other advanced features.
+
+
+Challenges Faced:
+C language: Since C donot have structures like vectors, maps which makes it difficult.
+		so, I have used struct for error,label,data,OPCEntry etc.
+
+		std=89 doesnot allow // comment so i have used /**/ comments in both emu.c and asm.c
+		std=89 doesnot allow initialization of the loop variable inside the for declaration so i have declared the loop variable before writing the for loop .
+
+Claims Regarding emu.c (emulator file):
+
+Correct Submission: The emulator code is correctly submitted and adheres to the required formatting and naming conventions.
+
+Compilation: The code compiles without errors and warnings using a standard C compiler.
+
+Memory Model: The emulator accurately simulates a memory model with a specified size.
+
+Register Implementation: The emulator correctly implements the A, B, PC, and SP registers.
+
+Instruction Set Implementation: The emulator correctly implements all the specified instructions, including data transfer, arithmetic, logical, and control flow instructions.
+
+Memory Access: The emulator correctly handles memory access operations, including loading and storing data.
+
+Program Execution: The emulator can execute programs written in the specified assembly language.
+
+Error Handling: The emulator can detect and report errors such as invalid instructions, memory access violations, and infinite loops.
+
+User Interface: The emulator provides a user-friendly interface for interacting with the machine state, including displaying memory contents, register values, and executing instructions.
+
+Testing and Debugging: The emulator has been thoroughly tested with various test cases to ensure its correctness and robustness.
+
+Code Readability: The code is well-structured, commented, and easy to understand.
+
